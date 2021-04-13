@@ -74,4 +74,4 @@ I put the scripts and the database into the public domain (chess games are anywa
 
 ... go to Gady Costeff and Lewis Stiller for creating the CQL language, and to haydoooke for his documentation of CQL.
 
-_Written by [Nils Lindemann](https://github.com/nilslindemann) in 21-4-13._
+_Written by [Nils Lindemann](https://github.com/nilslindemann) in 2021-4-13._
