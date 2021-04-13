@@ -9,7 +9,7 @@ But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.c
 Here is what i got:
 
 Theme|Example for the theme|N. o. games found
-:---|---|---:
+:---|:---|---:
 Piece sacrifice f7 | [Mahescandra - Cochrane, Kolkata 1850](https://lichess.org/dj70pPyz#37) | 741
 Knight sacrifice d5 | [Kasparov - Salov, Barcelona 1989](https://lichess.org/Op4VDhtF#22) | 679
 Piece sacrifice b5 | [Morphy - Isouard, Paris 1858](https://lichess.org/sayPmXB3#18) | 573
