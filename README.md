@@ -4,7 +4,7 @@
 
 Of course that question can not be answered precisely, because tactical motifs in chess are not clearly defined and often interweaved.
 
-But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.com/cql/) scripts which define some patterns, which are often seen in the opening phase. Using the scripts i then searched in a database with 372,000 GM games. The search was done within the first twenty moves of each game. There are some false positives, but most games fit the themes quite well.
+But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.com/cql/) scripts which define some patterns, which are often seen in the opening phase. Using the scripts i then searched in a database with 372,000 [GM](https://en.wikipedia.org/wiki/Grandmaster_(chess)) games. The search was done within the first twenty moves of each game - the opening phase. Most games fit the themes quite well, though there are some false positives. But i wanted to keep the scripts simple.
 
 Here is what i got:
 
@@ -37,9 +37,9 @@ The PGNs containing these games are inside the folder *output*.
 
 Attached to this repository are:
 
-* the CQL scripts used for the search, files with the extension _*.cql_,
-* the input game database, _input.pgn_, contained in the *input games.7z* and
-* the used CQL interpreter, the _cql.exe_, version 6.0.5, contained in the *cql interpreter.7z*. If you are on Linux or macOS, replace this binary with a [download from the official CQL website](http://gadycosteff.com/cql/download.html).
+* The CQL scripts used for the search, these are files with the extension _*.cql_.
+* The input game database, _input.pgn_, it is contained in the *input games.7z*.
+* The used CQL interpreter, _cql.exe_ (version 6.0.5) contained in the *cql interpreter.7z*. If you are on Linux or macOS, replace this binary with a [download from the official CQL website](http://gadycosteff.com/cql/download.html).
 
 The input database consists of games, where
 
@@ -49,7 +49,7 @@ The input database consists of games, where
 
 ## Running queries
 
-On Windows, to (re-)run a script on the database, drag it on the convenience _draghere.bat_. The results will be written to the _output_ folder, overwriting the results of previous runs. Instead of the _input.pgn_ you can of course also add your own PGN database, name it *input.pgn* or edit the _draghere.bat_ to match its name. For example, you could use [your games played on Lichess](https://lichess.org/api#operation/apiGamesUser).
+On Windows, to (re-)run a script on the database, drag it on the convenience _draghere.bat_. The results will be written to the _output_ folder, overwriting the results of previous runs. Instead of the _input.pgn_ you can of course also add your own PGN database. Name it *input.pgn* or edit the _draghere.bat_ to match its name. For example, you could use [your games played on Lichess](https://lichess.org/api#operation/apiGamesUser).
 
 It will take some time to run a script on a huge database. To speed up the queries, you can first run a generic script on the database, and then run the refined script on the output PGN of the first run. See the [CQL command line reference](http://gadycosteff.com/cql/options.html) for the available command line options.
 
@@ -58,13 +58,13 @@ It will take some time to run a script on a huge database. To speed up the queri
 * The [official CQL Documentation](http://gadycosteff.com/cql/) is a complete reference of the CQL language.
 * [Haydoooke](https://github.com/haydoooke) wrote a beginner-friendly [documentation about CQL](https://haydoooke.github.io/Scidpp/cqltut.html).
 
-The scripts in this repository use the following non-obvious CQL [filters](http://gadycosteff.com/cql/filtertable.html) and [symbols](http://gadycosteff.com/cql/symbolindex.html):
+The scripts in this repository use the following CQL [filters](http://gadycosteff.com/cql/filtertable.html) and [symbols](http://gadycosteff.com/cql/symbolindex.html) (leaving the obvious mathematical operators and the piece designators away). They are documented in the above links.
 
 _flipcolor_ • _result_ • _movenumber_ • _power_ • _wtm_ • _btm_ • _line_ • _mate_ • _attacks_ • _attackedby_ • _pin_ • _ray_ • `{}` • `[]` • `()` • `-->` • `.` • `*` • `a` • `A` • `_` • `#` • (whitespace between filters, which is an implicit _AND_)
 
 ## Copyrights
 
-I put the scripts and the database into the public domain (chess games anyway are). The copyright owners of CQL are Gady Costeff and Lewis Stiller.
+I put the scripts and the database into the public domain (chess games are anyway). The copyright owners of CQL are Gady Costeff and Lewis Stiller.
 
 ## Credits
 
