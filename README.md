@@ -4,7 +4,7 @@
 
 Of course that question can not be answered precisely, because tactical motifs in chess are not clearly defined and often interweaved.
 
-But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.com/cql/) scripts which define some patterns, which are often seen in the opening phase. Using the scripts i then searched in a database with 372,000 [GM](https://en.wikipedia.org/wiki/Grandmaster_(chess)) games. The search was done within the first twenty moves of each game - the opening phase. Most games fit the themes quite well, though there are some false positives. But i wanted to keep the scripts simple.
+But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.com/cql/) scripts which define some patterns, which are often seen in the opening phase. Using the scripts i then searched in a [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) database with 372,000 [GM](https://en.wikipedia.org/wiki/Grandmaster_(chess)) games. The search was done within the first twenty moves of each game - the opening phase. Most games fit the themes quite well, though there are some false positives. But i wanted to keep the scripts simple.
 
 Here is what i got:
 
