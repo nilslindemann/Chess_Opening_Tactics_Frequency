@@ -49,7 +49,11 @@ The input database consists of games, where
 
 ## Running queries
 
-On Windows, to (re-)run a script on the database, drag it on the convenience _draghere.bat_. The results will be written to the _output_ folder, overwriting the results of previous runs. Instead of the _input.pgn_ you can of course also add your own PGN database. Name it *input.pgn* or edit the _draghere.bat_ to match its name. For example, you could use [your games played on Lichess](https://lichess.org/api#operation/apiGamesUser).
+First extract the _input games.7z_ and the _cql interpreter.7z_ into this directory.
+
+On Windows, to (re-)run a script on the database, drag it on the convenience _draghere.bat_. The results will be written to the _output_ folder, overwriting the results of previous runs.
+
+Instead of the _input.pgn_ you can of course also use your own PGN database. Name it *input.pgn* or edit the _draghere.bat_ to match its name. For example, you could use [your games played on Lichess](https://lichess.org/api#operation/apiGamesUser).
 
 It will take some time to run a script on a huge database. To speed up the queries, you can first run a generic script on the database, and then run the refined script on the output PGN of the first run. See the [CQL command line reference](http://gadycosteff.com/cql/options.html) for the available command line options.
 
