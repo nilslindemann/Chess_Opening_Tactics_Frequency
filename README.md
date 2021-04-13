@@ -10,26 +10,26 @@ Here is what i got:
 
 Theme|Example for the theme|N. o. games found
 :---|:---|---:
-Piece sacrifice f7 | [Mahescandra - Cochrane, Kolkata 1850](https://lichess.org/dj70pPyz#37) | 741
-Knight sacrifice d5 | [Kasparov - Salov, Barcelona 1989](https://lichess.org/Op4VDhtF#22) | 679
-Piece sacrifice b5 | [Morphy - Isouard, Paris 1858](https://lichess.org/sayPmXB3#18) | 573
-Piece sacrifice e6 | [Tal - Chikovani, Gori 1968](https://lichess.org/78Qe3YyJ#36) | 552
-Piece sacrifice h6 | [Fisher - Steinitz, England 1872](https://lichess.org/TNWsLQEg/black#29) | 549
-Piece sacrifice g5 | [Mahescandra - Cochrane, Kolkata 1850](https://lichess.org/FijXBBEv/black#17) | 494
-Knight sacrifice f7 | [Bareev - Sakaev, Moscow 2001](https://lichess.org/5HRQvPuA#36) | 387
-Piece sacrifice g6 | [Kramnik - Lautier, Tilburg 1998](https://lichess.org/jye9gBoi#36) | 358
-Bishop sacrifice f7 | [Morphy - Muarian, New Orleans 1866](https://lichess.org/BaqxSr7Y#12) | 302
-Knight sacrifice f5 | [Spassky - Van Oosterom, Antwerp 1955](https://lichess.org/K6w16ky4#32) | 288
-Pawn sacrifice e6 | [Akopian - Gabriel, Baden-Baden 1996](https://lichess.org/FIkLhcnq#10) | 171
-Exchange sacrifice c3 | [Ader Hausman - Fischer, Santiago 1959](https://lichess.org/ANM0U9CM/black#35) | 114
-Exchange sacrifice f6 | [Mongredien - Harrwitz, London 1860](https://lichess.org/l9tHh8Ns/black#39) | 104
-Bishop sacrifice h7 | [Wilke - Priwonitz, Hamburg 1833](https://lichess.org/RkHwTFp8/black#17) | 59
-Smothered mate f7 is an aspect | [Malakhov - Sanikidze, Chartres 2017](https://lichess.org/KkFEs213#44) | 28
-Pawn sacrifice d6 | [Jones - Chanda, Abudhabi 2015](https://lichess.org/fjst8n6z#32) | 26
-Double bishop sacrifice h7, g7 | [Nimzowitsch - Tarrasch, St Petersburg 1914](https://lichess.org/EoNu3agm/black#37)| 12
-Smothered mate | [Morphy - Amateur, Paris 1859](https://lichess.org/5gL58B5R#38) | 6
-Pawnchain c5-d6-e5, piece sacrifice c5 | [Korchnoi - Nijboer, Netherlands 1994](https://lichess.org/gKjAjD7h#34) | 3
-Pawnchain f5-e6-d5, piece sacrifice f5 | [Tarrasch - Marshall, Nuremberg 1905](https://lichess.org/bFSy3CQQ#36) | 3
+[Piece sacrifice f7](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/piece%20sac%20f7.cql) | [Mahescandra - Cochrane, Kolkata 1850](https://lichess.org/dj70pPyz#37) | 741
+[Knight sacrifice d5](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/knight%20sac%20d5.cql) | [Kasparov - Salov, Barcelona 1989](https://lichess.org/Op4VDhtF#22) | 679
+[Piece sacrifice b5](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/piece%20sac%20b5.cql) | [Morphy - Isouard, Paris 1858](https://lichess.org/sayPmXB3#18) | 573
+[Piece sacrifice e6](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/piecesac%20e6.cql) | [Tal - Chikovani, Gori 1968](https://lichess.org/78Qe3YyJ#36) | 552
+[Piece sacrifice h6](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/piecesac%20h6.cql) | [Fisher - Steinitz, England 1872](https://lichess.org/TNWsLQEg/black#29) | 549
+[Piece sacrifice g5](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/piece%20sac%20g5.cql) | [Mahescandra - Cochrane, Kolkata 1850](https://lichess.org/FijXBBEv/black#17) | 494
+[Knight sacrifice f7](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/knight%20sac%20f7.cql) | [Bareev - Sakaev, Moscow 2001](https://lichess.org/5HRQvPuA#36) | 387
+[Piece sacrifice g6](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/piecesac%20g6.cql) | [Kramnik - Lautier, Tilburg 1998](https://lichess.org/jye9gBoi#36) | 358
+[Bishop sacrifice f7](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/bishop%20sac%20f7.cql) | [Morphy - Muarian, New Orleans 1866](https://lichess.org/BaqxSr7Y#12) | 302
+[Knight sacrifice f5](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/knight%20sac%20f5.cql) | [Spassky - Van Oosterom, Antwerp 1955](https://lichess.org/K6w16ky4#32) | 288
+[Pawn sacrifice e6](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/pawnsac%20e6.cql) | [Akopian - Gabriel, Baden-Baden 1996](https://lichess.org/FIkLhcnq#10) | 171
+[Exchange sacrifice c3](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/exchange%20sac%20c3.cql) | [Ader Hausman - Fischer, Santiago 1959](https://lichess.org/ANM0U9CM/black#35) | 114
+[Exchange sacrifice f6](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/exchange%20sac%20f6.cql) | [Mongredien - Harrwitz, London 1860](https://lichess.org/l9tHh8Ns/black#39) | 104
+[Bishop sacrifice h7](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/bishop%20sac%20h7.cql) | [Wilke - Priwonitz, Hamburg 1833](https://lichess.org/RkHwTFp8/black#17) | 59
+[Smothered mate f7 is an aspect](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/smothered%20mate%20f7%20is%20an%20aspect.cql) | [Malakhov - Sanikidze, Chartres 2017](https://lichess.org/KkFEs213#44) | 28
+[Pawn sacrifice d6](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/pawnsac%20d6.cql) | [Jones - Chanda, Abudhabi 2015](https://lichess.org/fjst8n6z#32) | 26
+[Double bishop sacrifice h7, g7](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/double%20bishop%20sac%20h7%2C%20g7.cql) | [Nimzowitsch - Tarrasch, St Petersburg 1914](https://lichess.org/EoNu3agm/black#37)| 12
+[Smothered mate](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/smothered%20mate.cql) | [Morphy - Amateur, Paris 1859](https://lichess.org/5gL58B5R#38) | 6
+[Pawnchain c5-d6-e5, piece sacrifice c5](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/pawnchain%20c5-d6-e5%2C%20piece%20sac%20c5.cql) | [Korchnoi - Nijboer, Netherlands 1994](https://lichess.org/gKjAjD7h#34) | 3
+[Pawnchain f5-e6-d5, piece sacrifice f5](https://github.com/nilslindemann/Chess_Opening_Tactics_Frequency/blob/master/pawnchain%20f5-e6-d5%2C%20piece%20sac%20f5.cql) | [Tarrasch - Marshall, Nuremberg 1905](https://lichess.org/bFSy3CQQ#36) | 3
 
 The PGNs containing these games are inside the folder *output*.
 
