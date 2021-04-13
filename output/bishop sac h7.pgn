@@ -1,0 +1,1134 @@
+[Event "Europe"]
+[Site "Europe"]
+[Date "1620.??.??"]
+[Round "?"]
+[White "Greco, Gioacchino"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C00"]
+
+{ Game number 16}
+1.e4 e6 2.d4 Nf6 3.Bd3 Nc6 4.Nf3 Be7 5.h4 O-O 6.e5 Nd5 {Start line that ends at
+move 8(btm) CQL} 7.Bxh7+ Kxh7 8.Ng5+ {End line of length 4 that starts at move 
+7(wtm)} 8...Bxg5 9.hxg5+ Kg6 10.Qh5+ Kf5 11.Qh7+ g6 12.Qh3+ Ke4 13.Qd3# 1-0
+
+
+[Event "Hamburg"]
+[Site "Hamburg GER"]
+[Date "1833.??.??"]
+[Round "?"]
+[White "Wilke"]
+[Black "Priwonitz"]
+[Result "0-1"]
+[ECO "C00"]
+
+{ Game number 229}
+1.c4 e6 2.e4 d5 3.cxd5 exd5 4.exd5 Nf6 5.Bb5+ Bd7 6.Bc4 Be7 7.Nc3 O-O 8.Nge2 
+Bd6 9.O-O {Start line that ends at move 11(wtm) CQL} 9...Bxh2+ 10.Kxh2 Ng4+ {
+End line of length 4 that starts at move 9(btm)} 11.Kg1 Qh4 12.Re1 Qxf2+ 13.Kh1
+Re8 14.d4 Re3 15.Bd2 Rh3+ 16.gxh3 Qh2# 0-1
+
+
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1837.??.??"]
+[Round "?"]
+[White "De Labourdonnais, Louis Charles Mahe"]
+[Black "Lecrivain, M"]
+[Result "1-0"]
+[ECO "C00"]
+
+{ Game number 357}
+1.e4 e6 2.f4 d5 3.e5 c5 4.Nf3 Nc6 5.c3 Qb6 6.Bd3 a6 7.Bc2 Bd7 8.d4 cxd4 9.cxd4 
+Bb4+ 10.Nc3 Nge7 11.O-O O-O {Start line that ends at move 13(btm) CQL} 12.Bxh7+
+Kxh7 13.Ng5+ {End line of length 4 that starts at move 12(wtm)} 13...Kg8 14.Qh5
+Rfc8 15.Qxf7+ Kh8 16.Qh5+ Kg8 17.Qh7+ Kf8 18.Qh8+ Ng8 19.Nh7+ Kf7 20.Ng5+ Kf8 
+21.f5 Ke7 22.Qxg7+ Kd8 23.fxe6 Nge7 24.Rf8+ Kc7 25.Nxd5+ Nxd5 26.Qxd7+ Kb8 27.
+Qxc8+ Ka7 28.Qxa8# 1-0
+
+
+[Event "Berlin"]
+[Site "Berlin GER"]
+[Date "1839.05.11"]
+[Round "?"]
+[White "Fraenkel, Heinrich L"]
+[Black "Von Bilguer, Paul"]
+[Result "0-1"]
+[ECO "C40"]
+
+{ Game number 563}
+1.e4 e5 2.Nf3 f5 3.Bc4 Nf6 4.Nxe5 d5 5.exd5 Bd6 6.Bb5+ c6 7.dxc6 O-O 8.Bc4+ Kh8
+9.Nf7+ Rxf7 10.Bxf7 Qe7+ 11.Qe2 Qxf7 12.cxb7 Bxb7 13.O-O Nc6 14.c3 {Start line 
+that ends at move 16(wtm) CQL} 14...Bxh2+ 15.Kxh2 Ng4+ {End line of length 4 
+that starts at move 14(btm)} 16.Kg3 Qh5 17.Kf4 g5+ 18.Kxf5 Nd4+ 19.cxd4 Rf8+ 
+20.Ke6 Qe8+ 21.Kd6 Qc6+ 22.Ke7 Re8+ 23.Kf7 Nh6# 0-1
+
+
+[Event "London m"]
+[Site "London ENG"]
+[Date "1842.??.??"]
+[Round "?"]
+[White "Cochrane, John"]
+[Black "Staunton, Howard"]
+[Result "1-0"]
+[ECO "C24"]
+
+{ Game number 700}
+1.e4 e5 2.Bc4 Nf6 3.d4 c6 4.Nf3 Nxe4 5.dxe5 d5 6.exd6 Nxd6 7.Bd3 Be7 8.O-O O-O 
+9.Bf4 Bg4 10.Nc3 b5 11.Re1 Kh8 12.Qe2 Be6 13.Bxd6 Bxd6 14.Rad1 Qc7 {Start line 
+that ends at move 16(btm) CQL} 15.Bxh7 Kxh7 16.Ng5+ {End line of length 4 that 
+starts at move 15(wtm)} 16...Kg8 17.Nxe6 Bxh2+ 18.Kf1 fxe6 19.Qxe6+ Rf7 20.Ne4 
+Bf4 21.g3 Bh6 22.Nc5 a5 23.Qe8+ Kh7 24.Rd8 Na6 25.Qe4+ g6 26.Rxa8 Nxc5 27.Qd4 
+Bg7 28.Qh4+ Bh6 29.Rh8+ Kxh8 30.Qxh6+ 1-0
+
+
+[Event "London m"]
+[Site "London ENG"]
+[Date "1842.??.??"]
+[Round "?"]
+[White "Cochrane, John"]
+[Black "Staunton, Howard"]
+[Result "1-0"]
+[ECO "C24"]
+
+{ Game number 742}
+1.e4 e5 2.Bc4 Nf6 3.d4 c6 4.dxe5 Qa5+ 5.c3 Qxe5 6.Bd3 Bc5 7.Nf3 Qe7 8.O-O O-O 
+9.e5 Ng4 {Start line that ends at move 11(btm) CQL} 10.Bxh7+ Kxh7 11.Ng5+ {End 
+line of length 4 that starts at move 10(wtm)} 11...Kg8 12.Qxg4 Qxe5 13.Qh5 Qf5 
+14.g4 Qg6 15.Qxg6 fxg6 16.Be3 Bxe3 17.fxe3 Rxf1+ 18.Kxf1 d5 19.h3 Nd7 20.Nd2 
+Ne5 21.Kg2 Bd7 22.Ndf3 Nd3 23.Rd1 Nxb2 24.Rb1 Nc4 25.Rxb7 Rd8 26.Kf2 a5 27.e4 
+Nd6 28.Rc7 Nb5 29.Rb7 Nxc3 30.e5 Bc8 31.Rc7 Ne4+ 32.Ke3 Nxg5 33.Nxg5 d4+ 34.Kd2
+Bd7 35.Kd3 Be8 36.Ne6 Rd7 37.Rxd7 Bxd7 38.Nc5 Bc8 39.Kxd4 Kf7 40.Ne4 Ba6 41.
+Ng5+ Ke7 42.Kc5 Bb5 43.Kd4 a4 44.a3 Bf1 45.Kc5 Bb5 46.Nf3 Ke6 47.Nd4+ Kxe5 48.
+Nxb5 cxb5 49.Kxb5 1-0
+
+
+[Event "Leipzig Simul"]
+[Site "Leipzig GER"]
+[Date "1871.??.??"]
+[Round "?"]
+[White "Gering"]
+[Black "Minckwitz, Johannes"]
+[Result "0-1"]
+[ECO "C63"]
+
+{ Game number 4647}
+1.e4 e5 2.Nf3 Nc6 3.Bb5 f5 4.d3 Nf6 5.exf5 Bc5 6.O-O O-O 7.Bxc6 dxc6 8.Nxe5 
+Bxf5 9.Be3 Qe7 10.d4 Rad8 11.c3 Bd6 12.Nc4 {Start line that ends at move 
+14(wtm) CQL} 12...Bxh2+ 13.Kxh2 Ng4+ {End line of length 4 that starts at move 
+12(btm)} 14.Kg1 Qh4 15.Bf4 Be4 16.Bg3 Rxf2 17.Bxh4 Rxg2+ 18.Kh1 Rh2+ 19.Kg1 
+Rh1# 0-1
+
+
+[Event "Leipzig m"]
+[Site "Leipzig GER"]
+[Date "1879.??.??"]
+[Round "3"]
+[White "Paulsen, Louis"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[ECO "C02"]
+
+{ Game number 5804}
+1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Qb6 6.a3 Bd7 7.b4 cxd4 8.cxd4 Nge7 9.Nc3
+Nf5 10.Na4 Qc7 11.Bb2 Be7 12.Rc1 a6 13.Nc5 Bxc5 14.Rxc5 O-O 15.Bd3 Nfe7 {Start 
+line that ends at move 17(btm) CQL} 16.Bxh7+ Kxh7 17.Ng5+ {End line of length 4
+that starts at move 16(wtm)} 17...Kg6 18.Qg4 f5 19.Qg3 Qc8 20.Rc3 f4 21.Qg4 Nf5
+22.Rh3 Rh8 23.Nxe6+ Kf7 24.Qxf5+ Ke7 25.Qg5+ Kxe6 26.Qg6+ Ke7 27.Qxg7+ 1-0
+
+
+[Event "Counties Chess Association"]
+[Site "Boston, MA USA"]
+[Date "1880.??.??"]
+[Round "?"]
+[White "De Soyres, John"]
+[Black "Skipworth, Arthur"]
+[Result "1-0"]
+[ECO "C13"]
+
+{ Game number 5974}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.Bd3 c5 8.e5 Be7 9.
+h4 c4 {Start line that ends at move 11(btm) CQL} 10.Bxh7+ Kxh7 11.Ng5+ {End 
+line of length 4 that starts at move 10(wtm)} 11...Kh6 12.Qd2 Bxg5 13.hxg5+ Kg6
+14.Ne2 Qxg5 15.Nf4+ Kf5 16.Rh5 Qxh5 17.Nxh5 g5 18.c3 Kg6 19.Qc2+ Kxh5 20.Qh7+ 
+1-0
+
+
+[Event "Milan"]
+[Site "Milan ITA"]
+[Date "1881.??.??"]
+[Round "?"]
+[White "Crespi, N"]
+[Black "Cavallotti"]
+[Result "1-0"]
+[ECO "C13"]
+
+{ Game number 6286}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.Bd3 b6 8.h4 Bb7 9.
+e5 Be7 {Start line that ends at move 11(btm) CQL} 10.Bxh7+ Kxh7 11.Ng5+ {End 
+line of length 4 that starts at move 10(wtm)} 11...Kg6 12.Ne2 Kh6 13.Nf4 g6 14.
+h5 Bxg5 15.hxg6+ Kg7 16.Rh7+ Kg8 17.Qh5 Bf6 18.Rh8+ 1-0
+
+
+[Event "ITA Championship"]
+[Site "Venice ITA"]
+[Date "1883.??.??"]
+[Round "?"]
+[White "Salvioli, Carlo"]
+[Black "Crosara"]
+[Result "1-0"]
+[ECO "A40"]
+
+{ Game number 6923}
+1.d4 e6 2.c4 Bb4+ 3.Nc3 Bxc3+ 4.bxc3 b6 5.e4 d6 6.f4 Bb7 7.Bd3 Nd7 8.Nf3 c6 9.
+e5 d5 10.cxd5 cxd5 11.Ba3 Ne7 12.O-O O-O {Start line that ends at move 14(btm) 
+CQL} 13.Bxh7+ Kxh7 14.Ng5+ {End line of length 4 that starts at move 13(wtm)} 
+14...Kg6 15.Qg4 f5 16.Qg3 Qe8 17.Nxe6+ Kf7 18.Qxg7+ 1-0
+
+
+[Event "DSB-03.Kongress"]
+[Site "Nuerenberg GER"]
+[Date "1883.07.16"]
+[Round "1"]
+[White "Fritz, Alexander"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "C13"]
+
+{ Game number 7217}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.Bxf6 Bxf6 6.Nf3 O-O 7.Bd3 b6 8.h4 Bb7 9.
+e5 Be7 {Start line that ends at move 11(btm) CQL} 10.Bxh7+ Kxh7 11.Ng5+ {End 
+line of length 4 that starts at move 10(wtm)} 11...Kg6 12.Ne2 Bxg5 13.hxg5 f5 
+14.gxf6 Rh8 15.Nf4+ Kf7 16.Qg4 Rxh1+ 17.Kd2 gxf6 18.Qg6+ Ke7 19.Qg7+ Ke8 20.
+Qg8+ Ke7 21.Qxe6+ Kf8 22.Rxh1 Bc8 1-0
+
+
+[Event "Hastings"]
+[Site "Hastings ENG"]
+[Date "1895.??.??"]
+[Round "16"]
+[White "Pillsbury, Harry"]
+[Black "Burn, Amos"]
+[Result "1-0"]
+[ECO "D55"]
+
+{ Game number 10706}
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O 6.Nf3 b6 7.Rc1 Bb7 8.cxd5 Nxd5 9.
+Bxe7 Qxe7 10.Nxd5 Bxd5 11.Bd3 Rc8 12.e4 Bb7 13.O-O Nd7 14.Qe2 a6 15.Rc3 c6 16.
+Rfc1 b5 17.Qe3 Rc7 18.Qf4 Rac8 19.e5 c5 {Start line that ends at move 21(btm) 
+CQL} 20.Bxh7+ Kxh7 21.Ng5+ {End line of length 4 that starts at move 20(wtm)} 
+21...Kg8 22.Rh3 Qe8 23.Qh4 Kf8 24.Nh7+ Kg8 25.Nf6+ Kf8 26.Nxe8 Kxe8 27.Qg5 cxd4
+28.Rh8+ 1-0
+
+
+[Event "Manchester"]
+[Site "Manchester ENG"]
+[Date "1900.??.??"]
+[Round "?"]
+[White "Schallopp, Emil"]
+[Black "Gossip, George"]
+[Result "1-0"]
+[ECO "C29"]
+
+{ Game number 13198}
+1.e4 e5 2.Nc3 Nf6 3.f4 d5 4.fxe5 Nxe4 5.Nf3 Nxc3 6.bxc3 Be7 7.d4 O-O 8.Bd3 Bg4 
+9.Rb1 b6 10.O-O c5 11.h3 Bh5 {Start line that ends at move 13(btm) CQL} 12.
+Bxh7+ Kxh7 13.Ng5+ {End line of length 4 that starts at move 12(wtm)} 13...Bxg5
+14.Qxh5+ Bh6 15.Bxh6 gxh6 16.Rf6 Kg7 17.Qxh6+ Kg8 18.Qg5+ Kh7 19.Rh6# 1-0
+
+
+[Event "Ostende"]
+[Site "Ostende"]
+[Date "1905.??.??"]
+[Round "19"]
+[White "Schlechter, Carl"]
+[Black "Wolf, Heinrich"]
+[Result "1-0"]
+[ECO "D30"]
+
+{ Game number 14010}
+1.d4 d5 2.Nf3 Nf6 3.e3 c5 4.c4 e6 5.Bd3 Nc6 6.O-O a6 7.Nc3 dxc4 8.Bxc4 b5 9.Bd3
+Bb7 10.a4 c4 11.axb5 axb5 12.Rxa8 Bxa8 13.Bb1 Qb8 14.e4 Be7 15.Bg5 O-O 16.e5 
+Nd5 17.Nxd5 exd5 18.Bxe7 Nxe7 {Start line that ends at move 20(btm) CQL} 19.
+Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 20...Kg6 
+21.Qg4 f5 22.exf6 gxf6 23.Ne6+ Kf7 24.Qg7+ Kxe6 25.Re1+ Kf5 26.Qh7+ Kg5 27.Rxe7
+Rg8 28.Re3 b4 29.Rg3+ Qxg3 30.Qxg8+ 1-0
+
+
+[Event "Buenos Aires casual"]
+[Site "Buenos Aires ARG"]
+[Date "1911.05.26"]
+[Round "?"]
+[White "Capablanca, Jose"]
+[Black "Molina Carranza, Lis"]
+[Result "1-0"]
+[ECO "D43"]
+
+{ Game number 15189}
+1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Nbd7 5.e3 c6 6.Nf3 Be7 7.cxd5 Nxd5 8.Bxe7 Nxe7 
+9.Bd3 c5 10.O-O O-O 11.dxc5 Nxc5 {Start line that ends at move 13(btm) CQL} 12.
+Bxh7+ Kxh7 13.Ng5+ {End line of length 4 that starts at move 12(wtm)} 13...Kg6 
+14.Qg4 f5 15.Qg3 Kh6 16.Qh4+ Kg6 17.Qh7+ Kf6 18.e4 Ng6 19.exf5 exf5 20.Rad1 Nd3
+21.Qh3 Ndf4 22.Qg3 Qc7 23.Rfe1 Ne2+ 24.Rxe2 Qxg3 25.Nh7+ Kf7 26.hxg3 Rh8 27.
+Ng5+ Kf6 28.f4 1-0
+
+
+[Event "New York casual"]
+[Site "New York, NY USA"]
+[Date "1918.09.18"]
+[Round "?"]
+[White "Capablanca, Jose"]
+[Black "Borochow, Harry"]
+[Result "1-0"]
+[ECO "D63"]
+
+{ Game number 16056}
+1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.Bg5 Nbd7 5.Nc3 Be7 6.e3 O-O 7.Rc1 b6 8.cxd5 Nxd5 9.
+Bxe7 Nxe7 10.Bd3 Bb7 11.O-O c5 12.dxc5 Nxc5 {Start line that ends at move 
+14(btm) CQL} 13.Bxh7+ Kxh7 14.Ng5+ {End line of length 4 that starts at move 
+13(wtm)} 14...Kg6 15.Qg4 f5 16.Qg3 Kf6 17.b4 Nd7 18.Rcd1 Ng6 19.Rd6 Re8 20.Rfd1
+Ngf8 21.e4 g6 22.Qh4 Kg7 23.Rxd7+ Nxd7 24.Qh7+ Kf6 25.f4 1-0
+
+
+[Event "Barcelona Simul"]
+[Site "Barcelona ESP"]
+[Date "1935.12.14"]
+[Round "?"]
+[White "Capablanca, Jose"]
+[Black "Ribera Arnal, Angel"]
+[Result "1-0"]
+[ECO "B17"]
+
+{ Game number 19421}
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nd7 5.d4 Ngf6 6.Ng3 e6 7.Bd3 Be7 8.O-O O-O 
+9.Qe2 c5 10.Rd1 Qc7 11.Bg5 b6 12.d5 Nxd5 13.Bxe7 Nxe7 {Start line that ends at 
+move 15(btm) CQL} 14.Bxh7+ Kxh7 15.Ng5+ {End line of length 4 that starts at 
+move 14(wtm)} 15...Kg8 16.Rxd7 Qxd7 17.Qh5 Rd8 18.Qxf7+ Kh8 19.h4 Nf5 20.Nh5 
+Qe8 21.Nf6 1-0
+
+
+[Event "Hoogovens"]
+[Site "Wijk aan Zee NED"]
+[Date "1968.01.??"]
+[Round "1"]
+[White "Donner, Jan-Hein"]
+[Black "Portisch, Lajos"]
+[Result "1-0"]
+[ECO "E50"]
+
+{ Game number 39945}
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 c5 5.Bd3 O-O 6.Nf3 b6 7.d5 Bb7 8.e4 b5 9.e5 
+bxc4 10.Bb1 Nxd5 {Start line that ends at move 12(btm) CQL} 11.Bxh7+ Kxh7 12.
+Ng5+ {End line of length 4 that starts at move 11(wtm)} 12...Kg8 13.Qh5 Qxg5 
+14.Bxg5 Nxc3 15.a3 Ne4+ 16.axb4 Nc6 17.Be3 Nxb4 18.O-O Nc2 19.Rac1 Nxe3 20.fxe3
+Bd5 21.Rf4 f5 22.exf6 Rxf6 23.Rcf1 Raf8 24.Rxf6 Nxf6 25.Qe5 Ne4 26.Rxf8+ Kxf8 
+27.Qb8+ Kf7 28.Qxa7 Bc6 29.h4 Kg6 30.g4 Kh6 31.Qb8 Kh7 32.Qf8 Nf6 33.g5 Ne4 34.
+Qf7 1-0
+
+
+[Event "Moskva Championship-SU"]
+[Site "Moskva ch-SU"]
+[Date "1969.??.??"]
+[Round "2"]
+[White "Polugaevsky, Lev"]
+[Black "Tal, Mikhail"]
+[Result "1-0"]
+[ECO "D41"]
+
+{ Game number 41146}
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 
+Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nc6 12.O-O b6 13.Rad1 Na5 14.Bd3 Bb7 15.
+Rfe1 Rc8 16.d5 exd5 17.e5 Nc4 18.Qf4 Nb2 {Start line that ends at move 20(btm) 
+CQL} 19.Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 
+20...Kg6 21.h4 Rc4 22.h5+ Kh6 23.Nxf7+ Kh7 24.Qf5+ Kg8 25.e6 Qf6 26.Qxf6 gxf6 
+27.Rd2 Rc6 28.Rxb2 Re8 29.Nh6+ Kh7 30.Nf5 Rcxe6 31.Rxe6 Rxe6 32.Rc2 Rc6 33.Re2 
+Bc8 34.Re7+ Kh8 35.Nh4 f5 36.Ng6+ Kg8 37.Rxa7 1-0
+
+
+[Event "Soviet-Championship"]
+[Site "Moscow RUS"]
+[Date "1969.09.07"]
+[Round "2"]
+[White "Polugaevsky, Lev"]
+[Black "Tal, Mikhail"]
+[Result "1-0"]
+[ECO "D41"]
+
+{ Game number 41775}
+1.c4 Nf6 2.Nc3 e6 3.Nf3 d5 4.d4 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 
+Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 Nc6 12.O-O b6 13.Rad1 Bb7 14.Rfe1 Na5 15.
+Bd3 Rc8 16.d5 exd5 17.e5 Nc4 18.Qf4 Nb2 {Start line that ends at move 20(btm) 
+CQL} 19.Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 
+20...Kg6 21.h4 Rc4 22.h5+ Kh6 23.Nxf7+ Kh7 24.Qf5+ Kg8 25.e6 Qf6 26.Qxf6 gxf6 
+27.Rd2 Rc6 28.Rxb2 Re8 29.Nh6+ Kh7 30.Nf5 Rexe6 31.Rxe6 Rxe6 32.Rc2 Rc6 33.Re2 
+Bc8 34.Re7+ Kh8 35.Nh4 f5 36.Ng6+ Kg8 37.Rxa7 1-0
+
+
+[Event "URS-Championship"]
+[Site "Leningrad RUS"]
+[Date "1971.10.16"]
+[Round "21"]
+[White "Tseitlin, Mark D"]
+[Black "Karasev, Vladimir I"]
+[Result "1-0"]
+[ECO "C42"]
+
+{ Game number 44934}
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.c4 Be7 6.d4 O-O 7.Bd3 Nf6 8.Nc3 Bg4 9.
+h3 Bh5 10.O-O d5 11.cxd5 Nxd5 {Start line that ends at move 13(btm) CQL} 12.
+Bxh7+ Kxh7 13.Ng5+ {End line of length 4 that starts at move 12(wtm)} 13...Kg8 
+14.Qxh5 Bxg5 15.Bxg5 f6 16.Bd2 Nb6 17.Rad1 Qxd4 18.Rfe1 N8d7 19.Re7 Qc5 20.Nd5 
+Qc2 21.Bh6 Rae8 22.Rxg7+ Kh8 23.Rg6 Qe2 24.Bg7+ 1-0
+
+
+[Event "World Championship U18"]
+[Site "Skien"]
+[Date "1979.??.??"]
+[Round "?"]
+[White "Handoko, Edhi"]
+[Black "Chernin, Alexander"]
+[Result "1-0"]
+[ECO "C01"]
+
+{ Game number 53869}
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bg4 5.h3 Bh5 6.Be2 Bd6 7.O-O Nc6 8.b3 Nf6 9.
+c4 O-O 10.Be3 Re8 11.Nc3 Bb4 12.Na4 Bf8 13.Rc1 Ne4 14.cxd5 Nb4 15.Bb5 Re7 16.
+Nc5 Nd6 17.Bd3 Nxd5 {Start line that ends at move 19(btm) CQL} 18.Bxh7+ Kxh7 
+19.Ng5+ {End line of length 4 that starts at move 18(wtm)} 19...Kg6 20.Qd3+ f5 
+21.g4 Rxe3 22.fxe3 Qxg5 23.e4 Bxg4 24.hxg4 Qxg4+ 25.Kf2 Nxe4+ 26.Nxe4 fxe4 27.
+Rg1 exd3 28.Rxg4+ Kf5 29.Rg3 Nb4 1-0
+
+
+[Event "Naestved"]
+[Site "Naestved DEN"]
+[Date "1985.??.??"]
+[Round "8"]
+[White "Short, Nigel D"]
+[Black "Agdestein, Simen"]
+[Result "1-0"]
+[WhiteElo "2575"]
+[BlackElo "2515"]
+[ECO "C11"]
+
+{ Game number 61532}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.dxc5 
+Qa5 10.Bd3 b4 11.Ne2 Bxc5 12.O-O O-O 13.Kh1 Bb7 {Start line that ends at move 
+15(btm) CQL} 14.Bxh7+ Kxh7 15.Ng5+ {End line of length 4 that starts at move 
+14(wtm)} 15...Kg8 16.Qd3 Rfe8 17.Qh7+ Kf8 18.f5 Ndxe5 19.Bxc5+ Qxc5 20.fxe6 Ke7
+21.Qxg7 Kd6 22.exf7 Rf8 23.Qh6+ Kd7 24.Qh3+ Ke7 25.Qe6+ Kd8 26.Qxe5 1-0
+
+
+[Event "URS Team Championship U20"]
+[Site "Kramatorsk"]
+[Date "1989.??.??"]
+[Round "?"]
+[White "Ivanov, V"]
+[Black "Sagalchik, Gennadij"]
+[Result "1-0"]
+[ECO "C82"]
+
+{ Game number 72944}
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6 9.
+Nbd2 Nc5 10.c3 Bg4 11.Bc2 Qd7 12.Re1 Rd8 13.Nb3 Ne6 14.h3 Bh5 15.Bf5 Be7 16.
+Nbd4 O-O {Start line that ends at move 18(btm) CQL} 17.Bxh7+ Kxh7 18.Ng5+ {End 
+line of length 4 that starts at move 17(wtm)} 18...Bxg5 19.Qxh5+ Bh6 20.Nf5 Rh8
+21.Bxh6 gxh6 22.Qxh6+ Kg8 23.Qf6 Rh7 24.Re3 Kf8 25.Rg3 Rb8 26.Nh6 Ng7 27.Ng4 
+Nh5 28.Qg5 Nxg3 29.Nf6 Qf5 30.fxg3 Qxg5 31.Nxh7+ Kg7 32.Nxg5 Nxe5 33.Rd1 c6 34.
+Nf3 f6 35.Kf2 b4 36.cxb4 Rxb4 37.b3 a5 38.Rd4 Kf7 39.Ke3 Ke6 40.g4 c5 41.Rxb4 
+axb4 42.Ne1 d4+ 43.Ke4 Nf7 44.Nf3 Nd6+ 45.Kd3 Kd5 46.Nd2 Nf7 47.Nf3 Ne5+ 48.
+Nxe5 fxe5 49.g5 e4+ 50.Ke2 Ke5 51.h4 Kf5 52.g4+ Kf4 53.g6 d3+ 54.Kd1 e3 55.g7 
+1-0
+
+
+[Event "Cologne m 5'"]
+[Site "Cologne GER"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Kasparov, Garry"]
+[Black "Comp Fritz 2"]
+[Result "1-0"]
+[WhiteElo "2780"]
+[ECO "B10"]
+
+{ Game number 80196}
+1.e4 c6 2.Nc3 e6 3.d4 d5 4.e5 Nd7 5.f4 Bb4 6.Nf3 Ne7 7.a3 Bxc3+ 8.bxc3 O-O 9.
+Bd3 b6 {Start line that ends at move 11(btm) CQL} 10.Bxh7+ Kxh7 11.Ng5+ {End 
+line of length 4 that starts at move 10(wtm)} 11...Kg6 12.Qg4 Nxe5 13.fxe5 f5 
+14.Qg3 f4 15.Qg4 Kh6 16.Bxf4 Rxf4 17.Qxf4 Ng6 18.Nf7+ Kh7 19.Qg3 Qh4 20.Qxh4+ 
+Nxh4 21.O-O Nf5 22.Nd6 Ba6 23.Rxf5 exf5 24.e6 Be2 25.Re1 Bh5 26.e7 Be8 27.Nxf5 
+g6 28.Nd6 Kg7 29.h4 Kf6 30.g4 Rb8 31.Kf2 a5 32.Kg3 a4 33.g5+ Kg7 34.h5 gxh5 35.
+Kh4 b5 36.Nxe8+ Rxe8 37.Kxh5 Kf7 38.Kg4 Rxe7 39.Rxe7+ Kxe7 40.Kf5 Kf7 41.Ke5 
+Kg6 42.Kd6 Kxg5 43.Kxc6 Kf4 44.Kxd5 Kf5 45.Kc6 Kf4 46.d5 Ke3 1-0
+
+
+[Event "World Championship U12"]
+[Site "Bratislava SVK"]
+[Date "1993.??.??"]
+[Round "5"]
+[White "Vallejo Pons, Francisco"]
+[Black "Dahmani, Nasim"]
+[Result "1-0"]
+[ECO "C14"]
+
+{ Game number 85660}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 Nfd7 6.Bxe7 Qxe7 7.f4 c5 8.Nf3 Nc6 9.
+Bd3 cxd4 10.Nb5 O-O {Start line that ends at move 12(btm) CQL} 11.Bxh7+ Kxh7 
+12.Ng5+ {End line of length 4 that starts at move 11(wtm)} 12...Kh6 13.Qd3 g6 
+14.Qh3+ Kg7 15.Qh7# 1-0
+
+
+[Event "London Rapid m"]
+[Site "London ENG"]
+[Date "1993.??.??"]
+[Round "3"]
+[White "Kasparov, Garry"]
+[Black "Short, Nigel D"]
+[Result "1-0"]
+[WhiteElo "2815"]
+[BlackElo "2665"]
+[ECO "D23"]
+
+{ Game number 87348}
+1.Nf3 d5 2.c4 e6 3.d4 Nf6 4.Nc3 dxc4 5.Qa4+ Nbd7 6.e4 a6 7.Bxc4 c6 8.Qd1 Be7 9.
+O-O O-O 10.a4 b6 11.Bd3 Bb7 12.e5 Nd5 13.Nxd5 cxd5 14.Bd2 a5 15.Rc1 Nb8 16.Bb5 
+Na6 17.Qb3 Rc8 18.Rc3 Nc7 19.Bd3 Bb4 {Start line that ends at move 21(btm) CQL}
+20.Bxh7+ Kxh7 21.Ng5+ {End line of length 4 that starts at move 20(wtm)} 21...
+Kg8 22.Rh3 Re8 23.Qf3 Qd7 24.Qh5 Kf8 25.Nh7+ Ke7 26.Bg5+ f6 27.Nxf6 1-0
+
+
+[Event "World Championship U14"]
+[Site "Bratislava SVK"]
+[Date "1993.??.??"]
+[Round "1"]
+[White "Malakhov, Vladimir"]
+[Black "Praznik, Niko"]
+[Result "1-0"]
+[ECO "C01"]
+
+{ Game number 88283}
+1.e4 e6 2.d4 d5 3.exd5 exd5 4.Nf3 Bg4 5.Bd3 Bd6 6.O-O Ne7 7.Re1 O-O {Start line
+that ends at move 9(btm) CQL} 8.Bxh7+ Kxh7 9.Ng5+ {End line of length 4 that 
+starts at move 8(wtm)} 9...Kg8 10.Qxg4 Ng6 11.Nc3 c6 12.Bd2 Qc8 13.Qh5 Rd8 14.
+Qh7+ Kf8 15.Re6 fxe6 16.Qxg6 Rd7 17.Qxe6 g6 18.Qf6+ Kg8 19.Qxg6+ 1-0
+
+
+[Event "Olympiad"]
+[Site "Erevan ARM"]
+[Date "1996.09.20"]
+[Round "5"]
+[White "Akesson, Ralf"]
+[Black "Illescas Cordoba, Miguel"]
+[Result "0-1"]
+[WhiteElo "2500"]
+[BlackElo "2640"]
+[ECO "D46"]
+
+{ Game number 106911}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd2 Bd6 7.Bd3 O-O 8.O-O Qe7 9.
+Qc2 dxc4 10.Bxc4 e5 11.Bb3 e4 12.Ng5 {Start line that ends at move 14(wtm) CQL}
+12...Bxh2+ 13.Kxh2 Ng4+ {End line of length 4 that starts at move 12(btm)} 14.
+Kg1 Qxg5 15.Qxe4 Ndf6 16.Qf3 Qh4 17.Qh3 Qg5 18.Qf3 Be6 19.Bxe6 fxe6 20.Qh3 e5 
+21.dxe5 Qxe5 22.Rae1 Rad8 23.Bc1 Qe7 24.e4 Ne5 25.Re2 Nfg4 26.Qg3 Qc5 27.Rd2 b5
+28.Rxd8 Rxd8 29.Ne2 Rd3 30.Qf4 h6 31.Qf5 Qc2 32.Nc3 b4 33.Bf4 bxc3 34.Bxe5 Nxe5
+35.Qxe5 Kh8 36.Qe8+ Kh7 37.Qe5 cxb2 38.Qf5+ Kg8 39.Qc8+ Kf7 40.Qf5+ Ke7 41.Qe5+
+Kd7 42.Qxg7+ Kc8 43.Qf8+ Rd8 44.Qf5+ Kb7 45.Qf7+ Ka8 0-1
+
+
+[Event "RUS Championship m1-2"]
+[Site "Elista RUS"]
+[Date "1997.05.22"]
+[Round "2.1"]
+[White "Zvjaginsev, Vadim"]
+[Black "Burmakin, Vladimir"]
+[Result "0-1"]
+[WhiteElo "2610"]
+[BlackElo "2530"]
+[ECO "D46"]
+
+{ Game number 111838}
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.Nf3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4 9.
+Bxc4 Qe7 10.Bd2 e5 11.Bb3 e4 12.Ng5 {Start line that ends at move 14(wtm) CQL} 
+12...Bxh2+ 13.Kxh2 Ng4+ {End line of length 4 that starts at move 12(btm)} 14.
+Kg1 Qxg5 15.Qxe4 Nb6 16.Qf3 Qh4 17.Qh3 Qxh3 18.gxh3 Nf6 19.Kg2 Re8 20.f3 Be6 
+21.e4 a5 22.Bxe6 Rxe6 23.b3 Nfd7 24.a4 f5 25.Rad1 fxe4 26.fxe4 Nf8 27.Bf4 Nbd7 
+28.Bg3 Nf6 29.Rfe1 Rae8 30.d5 cxd5 31.exd5 Re3 32.Rxe3 Rxe3 33.Be1 b6 34.Nb5 
+Nxd5 35.Rxd5 Rxe1 36.Rd8 g5 37.Rb8 Re6 38.Nc7 Rd6 39.Na8 Rd2+ 40.Kf3 Rd3+ 41.
+Kg4 Rxb3 42.Rxb6 Ra3 43.Ra6 Rxa4+ 44.Kxg5 Ra1 45.h4 a4 46.h5 a3 47.Kh6 a2 48.
+Nc7 Rc1 49.Rxa2 Rc6+ 50.Kg5 h6+ 0-1
+
+
+[Event "BCF Championship"]
+[Site "Torquay ENG"]
+[Date "1998.08.06"]
+[Round "10"]
+[White "Hebden, Mark L"]
+[Black "Sadler, Matthew D"]
+[Result "1-0"]
+[WhiteElo "2585"]
+[BlackElo "2650"]
+[ECO "D27"]
+
+{ Game number 118287}
+1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5 6.O-O a6 7.e4 b5 8.Bd3 Bb7 9.Re1 
+cxd4 10.a4 b4 11.e5 Nfd7 12.Bg5 Be7 13.Bxe7 Qxe7 14.Nbd2 Nc6 15.Rc1 O-O 16.h4 
+Rfd8 17.Qe2 Nc5 {Start line that ends at move 19(btm) CQL} 18.Bxh7+ Kxh7 19.
+Ng5+ {End line of length 4 that starts at move 18(wtm)} 19...Kh6 20.Rxc5 Qxc5 
+21.Nxf7+ Kg6 22.Nd6 Rxd6 23.exd6 Qf5 24.Ne4 Rh8 25.g4 Qd5 26.h5+ Kf7 27.Ng5+ 
+Kf6 28.Qd2 e5 29.Ne4+ Kf7 30.Qg5 Bc8 31.Qg6+ Kf8 32.Ng5 Bxg4 33.Rc1 Rxh5 34.f3 
+e4 35.Nh7+ Rxh7 36.fxe4 Qe5 37.Rf1+ 1-0
+
+
+[Event "Istanbul Olympiad Men"]
+[Site "Istanbul TUR"]
+[Date "2000.11.10"]
+[Round "13.1"]
+[White "Kasimdzhanov, Rustam"]
+[Black "Lesiege, Alexandre"]
+[Result "1-0"]
+[WhiteElo "2690"]
+[BlackElo "2584"]
+[ECO "D47"]
+
+{ Game number 132937}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7 9.
+O-O b4 10.Ne4 Be7 11.Nxf6+ Nxf6 12.e4 O-O 13.e5 Nd7 14.Be4 Rb8 15.a3 bxa3 16.b4
+a5 17.bxa5 Qxa5 18.Bxa3 Bxa3 {Start line that ends at move 20(btm) CQL} 19.
+Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 20...Kg6 
+21.Qd3+ f5 22.Nxe6 Ra8 23.Rfb1 Bc8 24.Rb3 1-0
+
+
+[Event "Ordix Open"]
+[Site "Mainz GER"]
+[Date "2003.08.16"]
+[Round "4"]
+[White "Dreev, Aleksey"]
+[Black "Jussupow, Artur"]
+[Result "1-0"]
+[WhiteElo "2698"]
+[BlackElo "2583"]
+[ECO "D41"]
+
+{ Game number 152653}
+1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.Nc3 c5 5.cxd5 Nxd5 6.e4 Nxc3 7.bxc3 cxd4 8.cxd4 
+Bb4+ 9.Bd2 Bxd2+ 10.Qxd2 O-O 11.Bc4 b6 12.O-O Bb7 13.Rfe1 Nc6 14.Rad1 Rc8 15.d5
+Na5 16.Bd3 exd5 17.e5 Nc4 18.Qf4 Nb2 {Start line that ends at move 20(btm) CQL}
+19.Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 20...
+Kg6 21.h4 Qe7 22.Rd2 Rc4 23.Qg3 Kh6 24.Rxb2 f6 25.Nf3 Re4 26.Rbe2 Kh7 27.exf6 
+gxf6 28.Rxe4 dxe4 29.Qf4 Rg8 30.Nd4 Qe5 31.Qe3 f5 32.Ne2 Rc8 33.Rd1 Bc6 34.Qg5 
+Rg8 35.Qh5+ Kg7 36.Ng3 Kf6 37.Qh6+ Rg6 38.Nh5+ 1-0
+
+
+[Event "It A"]
+[Site "Montreal CAN"]
+[Date "2004.08.06"]
+[Round "3"]
+[White "Moiseenko, Alexander"]
+[Black "Novikov, Igor A"]
+[Result "1-0"]
+[WhiteElo "2640"]
+[BlackElo "2610"]
+[ECO "D47"]
+
+{ Game number 160949}
+1.d4 d5 2.c4 e6 3.Nc3 c6 4.e3 Nf6 5.Nf3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bb7 9.
+O-O b4 10.Ne4 Be7 11.Nxf6+ Nxf6 12.e4 O-O 13.e5 Nd7 14.Be4 Rb8 15.a3 bxa3 16.b4
+a5 17.bxa5 Qxa5 18.Bxa3 Bxa3 {Start line that ends at move 20(btm) CQL} 19.
+Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 20...Kg6 
+21.Qd3+ f5 22.Nxe6 Ra8 23.Rfb1 Rfb8 24.Nf4+ Kf7 25.Qxf5+ Ke7 26.Qe6+ Kd8 27.
+Qg8+ Nf8 28.Ne6+ Kc8 29.Nxf8 Qd8 30.Rxa3 1-0
+
+
+[Event "Championship-ARM"]
+[Site "Erevan ARM"]
+[Date "2006.03.22"]
+[Round "7"]
+[White "Yegiazarian, Arsen"]
+[Black "Asrian, Karen"]
+[Result "0-1"]
+[WhiteElo "2531"]
+[BlackElo "2646"]
+[ECO "A32"]
+
+{ Game number 175866}
+1.d4 Nf6 2.c4 c5 3.Nf3 cxd4 4.Nxd4 e6 5.Nc3 Bb4 6.Qb3 Na6 7.Bd2 O-O 8.e3 b6 9.
+Be2 Bb7 10.O-O Be7 11.Rfd1 Rc8 12.Rac1 d5 13.a3 Nc5 14.Qa2 dxc4 15.Bxc4 Bd6 16.
+Be1 {Start line that ends at move 18(wtm) CQL} 16...Bxh2+ 17.Kxh2 Ng4+ {End 
+line of length 4 that starts at move 16(btm)} 18.Kg1 Qh4 19.b4 Qh2+ 20.Kf1 
+Qxg2+ 21.Ke2 Nd7 22.Kd2 Nxf2 23.Bxf2 Qxf2+ 24.Be2 Ne5 25.Rf1 Qh2 26.Ncb5 Bd5 
+27.Qb1 Nc4+ 28.Rxc4 Rxc4 29.Nc3 Rxc3 30.Kxc3 e5 31.Nf5 Qxe2 32.Ne7+ Kh8 33.Rd1 
+Qc4+ 34.Kd2 Bf3 0-1
+
+
+[Event "Madrid Simul"]
+[Site "Madrid ESP"]
+[Date "2008.05.24"]
+[Round "?"]
+[White "Carlsen, Magnus"]
+[Black "Martinez Villanueva Pelae, Guzman"]
+[Result "1-0"]
+[WhiteElo "2765"]
+[BlackElo "1838"]
+[ECO "B12"]
+
+{ Game number 198213}
+1.e4 c6 2.d4 d5 3.e5 c5 4.dxc5 e6 5.Nf3 Bxc5 6.Bd3 Nc6 7.O-O Nge7 8.Bf4 O-O 9.
+Nbd2 a6 10.Bg3 b5 11.a4 b4 12.Nb3 Ba7 13.Re1 Bb7 {Start line that ends at move 
+15(btm) CQL} 14.Bxh7+ Kxh7 15.Ng5+ {End line of length 4 that starts at move 
+14(wtm)} 15...Kg6 16.Qg4 Nxe5 17.Rxe5 f5 18.Qh4 Bc8 19.Nxe6 Bxe6 20.Rxe6+ Rf6 
+21.Rxf6+ gxf6 22.Qxb4 Nc6 23.Qd2 d4 24.Qd3 Nb4 25.Qc4 Qb6 26.a5 Qb7 27.Bd6 Nc6 
+28.Re1 Rd8 29.Re6 Qf7 30.Qe2 Rd7 31.Bf4 Nb4 32.Nc1 Nxc2 33.Nd3 Kg7 34.Rxa6 Qc4 
+35.Bh6+ Kxh6 36.Rxf6+ Kg5 37.Rg6+ Kxg6 38.Ne5+ Kf6 39.Nxd7+ 1-0
+
+
+[Event "Tal Memorial Blitz"]
+[Site "Moscow RUS"]
+[Date "2008.08.29"]
+[Round "16"]
+[White "Carlsen, Magnus"]
+[Black "Movsesian, Sergei"]
+[Result "1-0"]
+[WhiteElo "2775"]
+[BlackElo "2723"]
+[ECO "D15"]
+
+{ Game number 200767}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 a6 5.a4 e6 6.Bf4 dxc4 7.e3 Nd5 8.Bxc4 Nxf4 9.
+exf4 Be7 10.O-O Nd7 11.a5 O-O 12.Re1 b5 13.axb6 Nxb6 14.Bd3 c5 15.dxc5 Bxc5 {
+Start line that ends at move 17(btm) CQL} 16.Bxh7+ Kxh7 17.Ng5+ {End line of 
+length 4 that starts at move 16(wtm)} 17...Kg6 18.Qg4 f5 19.Qg3 Kf6 20.Nh7+ Kf7
+21.Ng5+ Kf6 22.Rad1 Qe8 23.Re5 Bb4 24.Rde1 Ra7 25.Qe3 Kg6 26.Qxb6 Rb7 27.Qe3 
+Bd6 28.Nxe6 Bxe5 29.Nxf8+ Qxf8 30.fxe5 Be6 31.Ne2 Qb4 32.Nf4+ Kf7 33.h4 Qxb2 
+34.Rd1 Qb3 35.Rd3 Qc4 36.Rd6 Re7 37.Kh2 a5 38.Qg3 Kg8 39.Rd8+ 1-0
+
+
+[Event "World Championship Blitz"]
+[Site "Almaty"]
+[Date "2008.11.08"]
+[Round "3"]
+[White "Tkachiev, Vladislav"]
+[Black "Svidler, Peter"]
+[Result "1-0"]
+[WhiteElo "2664"]
+[BlackElo "2727"]
+[ECO "B22"]
+
+{ Game number 204065}
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 e6 5.Bc4 d6 6.d4 cxd4 7.cxd4 Nc6 8.O-O Be7 9.
+Qe2 O-O 10.Rd1 Bd7 11.Bd2 Rc8 12.Nc3 Nb6 13.Bd3 Nb4 14.exd6 Bxd6 {Start line 
+that ends at move 16(btm) CQL} 15.Bxh7+ Kxh7 16.Ng5+ {End line of length 4 that
+starts at move 15(wtm)} 16...Kg6 17.Nce4 Bc6 18.h4 Rh8 19.Nxd6 Qxd6 20.Bxb4 
+Qxb4 21.Qg4 f5 22.Qg3 Kh6 23.Re1 Be4 24.Nxe4 fxe4 25.Rxe4 Qe7 26.Rae1 Rc6 27.
+Re5 Qf6 28.Qg4 Qg6 29.Rxe6 1-0
+
+
+[Event "Linares"]
+[Site "26"]
+[Date "2009.02.20"]
+[Round "2"]
+[White "Anand, Viswanathan"]
+[Black "Aronian, Levon"]
+[Result "0-1"]
+[WhiteElo "2791"]
+[BlackElo "2750"]
+[ECO "D47"]
+
+{ Game number 207330}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bd6 9.
+O-O O-O 10.Qc2 Bb7 11.a3 a6 12.Ng5 {Start line that ends at move 14(wtm) CQL} 
+12...Bxh2+ 13.Kxh2 Ng4+ {End line of length 4 that starts at move 12(btm)} 14.
+Kg1 Qxg5 15.f3 Ngf6 16.e4 Qh4 17.Be3 e5 18.Ne2 Nh5 19.Qd2 h6 20.Rfd1 Rae8 21.
+Bc2 Re6 22.Bf2 Qe7 23.g4 Rg6 24.Kf1 Nhf6 25.Ng3 Nxg4 26.fxg4 Qh4 27.Nf5 Qxg4 
+28.Qc3 Re8 29.Qg3 Qh5 30.Qh4 Qf3 31.Rd3 Qg2+ 32.Ke2 exd4 33.Rg3 Rxg3 34.Qxg3 
+Rxe4+ 35.Kd2 Rg4 36.Qxg2 Rxg2 37.Ke2 c5 38.Rg1 Ne5 39.Rxg2 Bxg2 40.Kd2 h5 41.b4
+Nc4+ 42.Kc1 Nxa3 43.Bd1 cxb4 44.Bxh5 g6 45.Ne7+ Kf8 46.Nxg6+ fxg6 47.Bxg6 Ke7 
+48.Bxd4 Kd6 49.Bd3 Nc4 50.Bg7 a5 51.Be2 Be4 52.Bf6 a4 53.Bg7 Kd5 0-1
+
+
+[Event "Rilton Cup"]
+[Site "Stockholm SWE"]
+[Date "2010.01.05"]
+[Round "9"]
+[White "Berczes, David"]
+[Black "Ivanov, Sergey"]
+[Result "0-1"]
+[WhiteElo "2512"]
+[BlackElo "2530"]
+[ECO "D46"]
+
+{ Game number 217727}
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.Bd3 O-O 8.O-O dxc4 9.
+Bxc4 b5 10.Bd3 Bb7 11.e4 e5 12.Bg5 exd4 13.Nxd4 {Start line that ends at move 
+15(wtm) CQL} 13...Bxh2+ 14.Kxh2 Ng4+ {End line of length 4 that starts at move 
+13(btm)} 15.Kg3 Qxg5 16.f4 Qd8 17.Kxg4 Nf6+ 18.Kg3 Qxd4 19.e5 Nh5+ 20.Kh2 g6 
+21.Ne4 c5 22.g4 c4 23.gxh5 cxd3 24.Nf6+ Kg7 25.Qf2 Qxf2+ 26.Rxf2 Rfd8 27.Rd2 
+Rac8 28.Kg3 Rc2 29.Rad1 Rxd2 30.Rxd2 gxh5 31.f5 Rd4 32.Nxh5+ Kh6 33.Nf4 Kg5 34.
+Nxd3 Bc8 35.f6 Bf5 36.Ne1 Rxd2 37.Nf3+ Kg6 38.Nxd2 Be6 39.Kf4 Bxa2 40.Nf3 b4 
+41.Nd4 a5 42.Nc6 h5 43.Ne7+ Kh7 44.Kg5 a4 45.Nc6 a3 46.bxa3 b3 0-1
+
+
+[Event "Rector Cup MGSU"]
+[Site "Moscow RUS"]
+[Date "2012.11.10"]
+[Round "4.3"]
+[White "Potkin, Vladimir"]
+[Black "Rychagov, A"]
+[Result "1-0"]
+[WhiteElo "2665"]
+[BlackElo "2561"]
+[ECO "C11"]
+
+{ Game number 250282}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 Be7 8.Qd2 O-O 9.
+dxc5 Bxc5 10.O-O-O Qa5 11.a3 Rb8 12.Bxc5 Qxc5 13.Bd3 b5 {Start line that ends 
+at move 15(btm) CQL} 14.Bxh7+ Kxh7 15.Ng5+ {End line of length 4 that starts at
+move 14(wtm)} 15...Kg8 16.Qd3 f5 17.Qh3 Re8 18.Qh5 Qe3+ 19.Kb1 Bb7 20.Qf7+ Kh8 
+21.Rd3 Qxd3 22.cxd3 Nc5 23.Qh5+ Kg8 24.Qh7+ Kf8 25.Qh8+ Ke7 26.Qxg7+ 1-0
+
+
+[Event "14. Euro Indiv 2013"]
+[Site "Legnica POL"]
+[Date "2013.05.11"]
+[Round "7.41"]
+[White "Zhigalko, Sergei"]
+[Black "Jianu, Vlad-Cristian"]
+[Result "1-0"]
+[WhiteElo "2660"]
+[BlackElo "2555"]
+[ECO "B22"]
+
+{ Game number 255904}
+1.e4 c5 2.c3 Nf6 3.e5 Nd5 4.Nf3 d6 5.d4 cxd4 6.cxd4 e6 7.Bc4 Nc6 8.O-O Be7 9.
+Bd2 O-O 10.Nc3 Nxc3 11.Bxc3 d5 12.Bd3 Bd7 13.Rc1 b5 14.Bd2 Qb6 15.Bg5 Bxg5 {
+Start line that ends at move 17(btm) CQL} 16.Bxh7+ Kxh7 17.Nxg5+ {End line of 
+length 4 that starts at move 16(wtm)} 17...Kg6 18.Qd3+ f5 19.Qg3 Qxd4 20.Nxe6+ 
+Qg4 21.Nxf8+ Rxf8 22.Qa3 b4 23.Qa6 Kh7 24.Rxc6 Bxc6 25.Qxc6 Qe4 26.Qe6 Rf6 27.
+Qe7 Rg6 28.g3 a5 29.Rd1 Qe2 30.Qh4+ Rh6 31.Qd4 Re6 32.f4 Rc6 33.Qd3 Qxd3 34.
+Rxd3 Rc1+ 35.Kf2 Rc2+ 36.Kf3 Rxb2 37.e6 Kg8 38.Rxd5 Kf8 39.Rxf5+ Ke7 40.Rxa5 
+Kxe6 41.h4 1-0
+
+
+[Event "20. Schloss Open 2014"]
+[Site "Werther GER"]
+[Date "2014.04.13"]
+[Round "6.2"]
+[White "Kunin, Vitaly"]
+[Black "Teske, Henrik"]
+[Result "1-0"]
+[WhiteElo "2554"]
+[BlackElo "2521"]
+[ECO "E10"]
+
+{ Game number 267512}
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.d5 b5 5.Bg5 b4 6.e4 d6 7.Bd3 Be7 8.O-O O-O 9.e5 
+Nxd5 10.Bxe7 Nxe7 {Start line that ends at move 12(btm) CQL} 11.Bxh7+ Kxh7 12.
+Ng5+ {End line of length 4 that starts at move 11(wtm)} 12...Kg6 13.Qg4 f5 14.
+exf6 e5 15.Ne6+ Kxf6 16.f4 Bxe6 17.fxe5+ Kxe5 18.Qe2+ 1-0
+
+
+[Event "POL Ch Rapid 2014"]
+[Site "Trzcianka POL"]
+[Date "2014.04.13"]
+[Round "8.1"]
+[White "Wojtaszek, Radoslaw"]
+[Black "Naiditsch, Arkadij"]
+[Result "1-0"]
+[WhiteElo "2716"]
+[BlackElo "2706"]
+[ECO "D35"]
+
+{ Game number 267515}
+1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nxc3 6.bxc3 c5 7.Rb1 Be7 8.Bb5+ Nd7 
+9.a4 O-O 10.Nf3 Nf6 11.Bd3 Qa5 12.Bd2 Qc7 13.O-O Bd7 14.Re1 Rad8 15.e5 Nd5 16.
+c4 Nb4 17.Bxb4 cxb4 18.d5 Bc5 {Start line that ends at move 20(btm) CQL} 19.
+Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 20...Kh6 
+21.Qg4 exd5 22.Qh4+ Kg6 23.Qh7+ Kxg5 24.Qxg7+ Kh5 25.g4+ Bxg4 26.Qh7+ Kg5 27.
+h4+ Kf4 28.Qh6+ 1-0
+
+
+[Event "TCh-SWE Elitserien"]
+[Site "Sweden SWE"]
+[Date "2017.03.24"]
+[Round "7.2"]
+[White "Tikkanen, Hans"]
+[Black "Blomqvist, Erik"]
+[Result "0-1"]
+[WhiteElo "2537"]
+[BlackElo "2541"]
+[ECO "D18"]
+
+{ Game number 306875}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4 5.a4 Bf5 6.Nh4 e6 7.Nxf5 exf5 8.e3 Bb4 9.
+Bxc4 O-O 10.O-O Nbd7 11.Qb3 a5 12.Na2 Bd6 13.Qxb7 Rb8 14.Qxc6 {Start line that 
+ends at move 16(wtm) CQL} 14...Bxh2+ 15.Kxh2 Ng4+ {End line of length 4 that 
+starts at move 14(btm)} 16.Kg3 Rb6 17.Qd5 Qc7+ 18.f4 Rg6 19.Kf3 Nb6 20.Qc5 Qb7+
+21.d5 Rc8 22.Qb5 Qe7 23.b3 Nh2+ 24.Kf2 Qh4+ 25.Kg1 Ng4 26.Rf3 Rh6 27.Kf1 Qh1+ 
+28.Ke2 Qxg2+ 29.Kd3 Qxf3 30.Nc3 Nxc4 31.bxc4 Qf1+ 32.Kc2 Qxc4 33.Qxc4 Rxc4 34.
+Rb1 Rb4 35.Rxb4 axb4 36.Nb5 Ra6 37.Kb3 h5 38.Nd4 Nf6 39.Kxb4 Nxd5+ 40.Kb5 Nc7+ 
+0-1
+
+
+[Event "6. Zurich Opening Blitz"]
+[Site "Zurich SUI"]
+[Date "2017.04.12"]
+[Round "1.1"]
+[White "Pelletier, Yannick"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteElo "2541"]
+[BlackElo "2724"]
+[ECO "D45"]
+
+{ Game number 307411}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 b6 9.O-O 
+Bb7 10.Bb2 Qe7 11.Rad1 Rad8 12.Rfe1 Rfe8 13.Bf1 e5 14.cxd5 e4 15.Ne5 Nxe5 16.
+dxe5 Bxe5 17.dxc6 {Start line that ends at move 19(wtm) CQL} 17...Bxh2+ 18.Kxh2
+Ng4+ {End line of length 4 that starts at move 17(btm)} 19.Kg3 Qe5+ 20.f4 Qh5 
+21.Rxd8 Qh2+ 22.Kxg4 h5+ 23.Kg5 Qg3+ 24.Kxh5 g6+ 25.Kh6 Qh4# 0-1
+
+
+[Event "Zurich Korchnoi CC 2017"]
+[Site "Zurich SUI"]
+[Date "2017.04.16"]
+[Round "7.2"]
+[White "Pelletier, Yannick"]
+[Black "Gelfand, Boris"]
+[Result "0-1"]
+[WhiteElo "2541"]
+[BlackElo "2724"]
+[ECO "D45"]
+
+{ Game number 307570}
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.Nc3 e6 5.e3 Nbd7 6.Qc2 Bd6 7.b3 O-O 8.Be2 b6 9.O-O 
+Bb7 10.Bb2 Qe7 11.Rad1 Rad8 12.Rfe1 Rfe8 13.Bf1 e5 14.cxd5 e4 15.Nh4 {Start 
+line that ends at move 17(wtm) CQL} 15...Bxh2+ 16.Kxh2 Ng4+ {End line of length
+4 that starts at move 15(btm)} 17.Kh3 Ndf6 18.g3 g5 19.f3 gxh4 20.Nxe4 Nxe4 21.
+fxg4 Qd6 22.Qg2 hxg3 23.Qg1 g2 0-1
+
+
+[Event "5. Norway Chess 2017"]
+[Site "Stavanger NOR"]
+[Date "2017.06.10"]
+[Round "4.2"]
+[White "Aronian, Levon"]
+[Black "Carlsen, Magnus"]
+[Result "1-0"]
+[WhiteElo "2793"]
+[BlackElo "2832"]
+[ECO "D45"]
+
+{ Game number 309676}
+1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6 5.e3 a6 6.b3 Bb4 7.Bd2 Nbd7 8.Bd3 O-O 9.O-O 
+Qe7 10.Bc2 Rd8 11.a3 Bxa3 12.Rxa3 Qxa3 13.c5 b6 14.b4 Ne4 15.Nxe4 dxe4 16.Bxe4 
+Rb8 {Start line that ends at move 18(btm) CQL} 17.Bxh7+ Kxh7 18.Ng5+ {End line 
+of length 4 that starts at move 17(wtm)} 18...Kg8 19.Qh5 Nf6 20.Qxf7+ Kh8 21.
+Qc7 Bd7 22.Nf7+ Kh7 23.Nxd8 Rc8 24.Qxb6 Nd5 25.Qa7 Rxd8 26.e4 Qd3 27.exd5 Qxd2 
+28.Qc7 Qg5 29.dxc6 Bc8 30.h3 Qd5 31.Rd1 e5 32.Rd3 exd4 33.Qe7 Bf5 34.Rg3 Bg6 
+35.Qh4+ 1-0
+
+
+[Event "Belt and Road Hainan Open"]
+[Site "Sanya City CHN"]
+[Date "2017.12.20"]
+[Round "4.1"]
+[White "Bai, Jinshi"]
+[Black "Zhou, Jianchao"]
+[Result "1-0"]
+[WhiteElo "2556"]
+[BlackElo "2597"]
+[ECO "A34"]
+
+{ Game number 317983}
+1.Nf3 c5 2.c4 Nf6 3.Nc3 d5 4.cxd5 Nxd5 5.e4 Nb4 6.Bc4 Nd3+ 7.Ke2 Nf4+ 8.Kf1 Nd3
+9.Qe2 Nxc1 10.Rxc1 e6 11.h4 a6 12.e5 b5 13.Bd3 Ra7 14.Be4 Rc7 15.a4 b4 16.Nd1 
+Nc6 17.Ne3 Be7 18.Rh3 Bb7 19.Nc4 O-O {Start line that ends at move 21(btm) CQL}
+20.Bxh7+ Kxh7 21.Ng5+ {End line of length 4 that starts at move 20(wtm)} 21...
+Kh6 22.Qe4 g6 23.h5 Bxg5 24.hxg6+ Kg7 25.Rh7+ Kg8 26.g7 Nxe5 27.gxf8=Q+ Qxf8 
+28.Qxe5 Kxh7 29.Qxc7 Be4 30.Ke2 Qg7 31.Rh1+ Bh6 32.Qf4 Bxg2 33.Rh2 f6 34.Ne3 
+1-0
+
+
+[Event "PRO League Group Stage"]
+[Site "chess.com INT"]
+[Date "2019.01.15"]
+[Round "2"]
+[White "Ali Marandi, Cemil Can"]
+[Black "Nyzhnyk, Illya"]
+[Result "1-0"]
+[WhiteElo "2530"]
+[BlackElo "2624"]
+[ECO "D00"]
+
+{ Game number 335931}
+1.d4 d5 2.Bf4 Nf6 3.e3 c5 4.c3 Nc6 5.Nd2 e6 6.Bd3 Be7 7.h3 O-O 8.Ngf3 c4 9.Bc2 
+b5 10.O-O Bb7 11.e4 dxe4 12.Nxe4 Nxe4 13.Bxe4 Qb6 14.Qe2 Rad8 15.Rad1 Rfe8 16.
+Rfe1 Bf6 17.Bg5 Bxg5 {Start line that ends at move 19(btm) CQL} 18.Bxh7+ Kxh7 
+19.Nxg5+ {End line of length 4 that starts at move 18(wtm)} 19...Kg8 20.Qh5 Qc7
+21.d5 Ne5 22.d6 Rxd6 23.Rxd6 Qxd6 24.Rxe5 Qd7 25.Qh7+ Kf8 26.Qh8+ Ke7 27.Qxg7 
+Kd8 28.Nxf7+ Kc8 29.Rxb5 Bc6 30.Rc5 Kb7 31.Nd6+ 1-0
+
+
+[Event "TCh-TUR 1. League 2019"]
+[Site "Konya TUR"]
+[Date "2019.07.22"]
+[Round "1.1.1"]
+[White "Goganov, Aleksey"]
+[Black "Iskandarov, Misratdin"]
+[Result "1-0"]
+[WhiteElo "2561"]
+[BlackElo "2504"]
+[ECO "E10"]
+
+{ Game number 343809}
+1.d4 Nf6 2.c4 e6 3.Nf3 c5 4.e3 b6 5.Nc3 Bb7 6.d5 exd5 7.cxd5 d6 8.e4 Be7 9.Bb5+
+Nfd7 10.Bf4 a6 11.Bd3 b5 12.a3 O-O 13.O-O Re8 14.Re1 Bf8 15.e5 Nxe5 {Start line
+that ends at move 17(btm) CQL} 16.Bxh7+ Kxh7 17.Ng5+ {End line of length 4 that
+starts at move 16(wtm)} 17...Kg6 18.Nce4 Qc8 19.Ng3 Qg4 20.Qxg4 Nxg4 21.Rxe8 
+Nd7 22.Rxa8 Bxa8 23.h4 Ngf6 24.h5+ Nxh5 25.Nxh5 Kxh5 26.Nxf7 Bxd5 27.Nxd6 g5 
+28.Bg3 Bg7 29.Rd1 Nb6 30.Nf5 Bxb2 31.Bc7 Bb3 32.Rd6 1-0
+
+
+[Event "Chess24 Banter Blitz Cup"]
+[Site "chess24.com INT"]
+[Date "2019.10.18"]
+[Round "1.8"]
+[White "Navara, David"]
+[Black "Dardha, Daniel"]
+[Result "1-0"]
+[WhiteElo "2717"]
+[BlackElo "2433"]
+[ECO "E50"]
+
+{ Game number 347676}
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.e3 O-O 5.Bd3 c5 6.Nf3 cxd4 7.exd4 d5 8.cxd5 Nxd5 
+9.O-O Nxc3 10.bxc3 Bxc3 {Start line that ends at move 12(btm) CQL} 11.Bxh7+ 
+Kxh7 12.Ng5+ {End line of length 4 that starts at move 11(wtm)} 12...Kg6 13.
+Qd3+ f5 14.Qxc3 Nc6 15.Qg3 Kf6 16.Nh7+ Kf7 17.Nxf8 Kxf8 18.Bg5 Qd5 19.Rfd1 b6 
+20.Qc7 Ba6 21.Rac1 Rc8 22.Qf4 Bb7 23.f3 Kg8 24.h4 Re8 25.h5 e5 26.dxe5 Qxe5 27.
+Re1 Qxf4 28.Rxe8+ Kf7 29.Bxf4 Kxe8 30.Re1+ Kf7 31.Rd1 Ke6 32.Rd6+ Ke7 33.Rg6 
+Kf7 34.a3 b5 35.Rd6 Ke7 36.Rd5 a6 37.Rxf5 Ke6 38.Rg5 Kf6 39.Rg6+ Kf7 40.Kf2 a5 
+41.Bd2 b4 42.axb4 axb4 43.Bxb4 Nxb4 44.Rb6 Nd3+ 45.Ke3 Nc5 46.Rb5 1-0
+
+
+[Event "chess.com Speed"]
+[Site "chess.com INT"]
+[Date "2019.11.19"]
+[Round "2.12"]
+[White "So, Wesley"]
+[Black "Vachier-Lagrave, Maxime"]
+[Result "1-0"]
+[WhiteElo "2767"]
+[BlackElo "2774"]
+[ECO "C11"]
+
+{ Game number 349247}
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.e5 Nfd7 5.f4 c5 6.Nf3 Nc6 7.Be3 a6 8.Qd2 b5 9.dxc5 
+Bxc5 10.Bd3 Qb6 11.Bf2 Bb7 12.O-O Rc8 13.Rae1 O-O {Start line that ends at move
+15(btm) CQL} 14.Bxh7+ Kxh7 15.Ng5+ {End line of length 4 that starts at move 
+14(wtm)} 15...Kg8 16.Qd3 Rfd8 17.Qh7+ Kf8 18.Qh5 1-0
+
+
+[Event "World Rapid"]
+[Site "Moscow RUS"]
+[Date "2019.12.28"]
+[Round "12.40"]
+[White "Bluebaum, Matthias"]
+[Black "Shirov, Alexei"]
+[Result "0-1"]
+[WhiteElo "2644"]
+[BlackElo "2684"]
+[ECO "D45"]
+
+{ Game number 351985}
+1.d4 d5 2.c4 c6 3.Nc3 Nf6 4.e3 Nbd7 5.Nf3 e6 6.Be2 Bd6 7.O-O O-O 8.a4 dxc4 9.
+Bxc4 e5 10.a5 Qe7 11.Qc2 e4 12.Ng5 {Start line that ends at move 14(wtm) CQL} 
+12...Bxh2+ 13.Kxh2 Ng4+ {End line of length 4 that starts at move 12(btm)} 14.
+Kg1 Qxg5 15.Qxe4 Qh4 16.Qf4 Ndf6 17.Qg3 Qxg3 18.fxg3 Be6 19.Bd3 Rad8 20.a6 b5 
+21.Bd2 Nh5 22.Ne2 Ne5 23.Bc2 Nc4 24.Bc1 Bg4 25.Re1 Bxe2 26.Rxe2 Nxg3 27.Re1 f5 
+28.b3 Nb6 29.Ba3 Rf7 30.Rac1 Nd5 31.Bd3 b4 32.Bb2 Rd6 33.Rc4 Rh6 34.Kf2 Ne4+ 
+35.Kg1 Nd2 36.Rc2 Nxb3 37.e4 fxe4 38.Bxe4 Rd7 39.Bf5 Re7 40.Rxe7 Nxe7 41.Bd3 
+Nd5 42.Bc4 Na5 43.Bxd5+ cxd5 44.Rc8+ Kf7 45.Rc7+ Kg6 46.Rxa7 Kf5 47.Bc1 Rb6 48.
+Bd2 b3 49.Rf7+ Kg6 50.a7 Ra6 51.Rf8 Rxa7 52.Bxa5 Rxa5 53.Rb8 Ra4 54.Rxb3 Rxd4 
+55.Rb6+ Kf5 56.Rb7 Rg4 57.Kf2 h5 58.Re7 g6 59.Kf3 Re4 60.Rf7+ Ke6 61.Rg7 Kf6 
+62.Rd7 Re5 63.Rd6+ Kf5 64.Rd8 h4 65.Rf8+ Kg5 66.Rd8 Rf5+ 0-1
+
+
+[Event "Titled Tuesday 14. July"]
+[Site "chess.com INT"]
+[Date "2020.07.14"]
+[Round "6"]
+[White "Pert, N"]
+[Black "Jumabayev, Rinat"]
+[Result "1-0"]
+[WhiteElo "2548"]
+[BlackElo "2654"]
+[ECO "E12"]
+
+{ Game number 363556}
+1.d4 Nf6 2.Nf3 b6 3.c4 Bb7 4.Nc3 e6 5.a3 d5 6.cxd5 Nxd5 7.Qc2 Be7 8.e4 Nxc3 9.
+bxc3 O-O 10.Bd3 c5 11.O-O Nc6 12.Bb2 Rc8 13.Qe2 Na5 14.Rad1 Qc7 15.d5 c4 16.Bb1
+exd5 17.exd5 Bd6 18.Bc1 Rfe8 {Start line that ends at move 20(btm) CQL} 19.
+Bxh7+ Kxh7 20.Ng5+ {End line of length 4 that starts at move 19(wtm)} 20...Kg6 
+21.Qc2+ f5 22.g4 Re5 23.h4 Nb3 24.Bf4 Qe7 25.Rde1 Rf8 26.h5+ Kf6 27.Bxe5+ Bxe5 
+28.Qxf5# 1-0
+
+
+[Event "Titled Tue 18. Aug"]
+[Site "chess.com INT"]
+[Date "2020.08.18"]
+[Round "1"]
+[White "Firouzja, Alireza"]
+[Black "Jian, Alex"]
+[Result "1-0"]
+[WhiteElo "2728"]
+[BlackElo "2089"]
+[ECO "D37"]
+
+{ Game number 365533}
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 Be7 5.Bf4 O-O 6.e3 b6 7.Be2 Bb7 8.O-O dxc4 9.
+Bxc4 c5 10.dxc5 Bxc5 11.Qe2 a6 12.Rad1 Qe7 13.e4 b5 14.Bd3 Nbd7 15.e5 Nd5 16.
+Nxd5 Bxd5 {Start line that ends at move 18(btm) CQL} 17.Bxh7+ Kxh7 18.Ng5+ {End
+line of length 4 that starts at move 17(wtm)} 18...Kg6 19.Qd3+ f5 20.Qg3 Nxe5 
+21.Nxe6+ Ng4 22.Nxf8+ Rxf8 23.Rxd5 Bxf2+ 24.Rxf2 Qe1+ 25.Rf1 Qe4 26.Rd6+ Kh7 
+27.h3 Nf6 28.Qh4+ Kg8 29.Bg3 Qe2 30.Rxf5 Qe3+ 31.Kh2 1-0
+
+
+[Event "PNWCC Online Blitz JP 20"]
+[Site "lichess.org INT"]
+[Date "2020.09.19"]
+[Round "2"]
+[White "Swiercz, Dariusz"]
+[Black "Petrosyan, M"]
+[Result "1-0"]
+[WhiteElo "2649"]
+[BlackElo "2628"]
+[ECO "D30"]
+
+{ Game number 368195}
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.e3 Be7 5.b3 O-O 6.Bd3 dxc4 7.bxc4 c5 8.O-O b6 9.Bb2
+Bb7 10.Qe2 Nc6 11.Nbd2 Rc8 12.Rad1 Qc7 13.dxc5 bxc5 14.Ne4 Nxe4 15.Bxe4 Rfd8 
+16.Bc3 Bf8 {Start line that ends at move 18(btm) CQL} 17.Bxh7+ Kxh7 18.Ng5+ {
+End line of length 4 that starts at move 17(wtm)} 18...Kg6 19.Qg4 f5 20.Qh4 e5 
+21.f4 Rxd1 22.Rxd1 Nd4 23.exd4 exd4 24.Rxd4 cxd4 25.Bxd4 Qxf4 26.Qxf4 Rxc4 27.
+Ne6 Ba3 28.Qg3+ Kf7 29.Nd8+ 1-0
+
+
+[Event "Titled Tuesday 2. Mar"]
+[Site "chess.com INT"]
+[Date "2021.03.02"]
+[Round "8"]
+[White "Jobava, Baadur"]
+[Black "Krysa, Leandro"]
+[Result "1-0"]
+[WhiteElo "2603"]
+[BlackElo "2527"]
+[ECO "D00"]
+
+{ Game number 369915}
+1.d4 Nf6 2.Nc3 d5 3.Bf4 a6 4.e3 e6 5.a3 c5 6.h3 Nc6 7.Nf3 b5 8.Bd3 Bb7 9.O-O 
+Be7 10.dxc5 Bxc5 11.e4 dxe4 12.Nxe4 Be7 13.Qe2 O-O 14.Rfd1 Nd5 15.Bg3 Qb6 16.
+Nd6 Bxd6 17.Bxd6 Nd4 {Start line that ends at move 19(btm) CQL} 18.Bxh7+ Kxh7 
+19.Ng5+ {End line of length 4 that starts at move 18(wtm)} 19...Kg8 20.Qd3 f5 
+21.Bxf8 Nf4 22.Qe3 Rxf8 23.Kh2 Qc6 24.f3 Nxc2 25.Qxf4 Nxa1 26.Qh4 Qc7+ 27.Kh1 
+g6 28.Nxe6 Qc2 29.Rd7 Qc1+ 30.Kh2 Rf7 31.Rd8+ 1-0
+
+
