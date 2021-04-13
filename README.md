@@ -51,7 +51,7 @@ The input database consists of games, where
 
 First extract the _input games.7z_ and the _cql interpreter.7z_ into this directory.
 
-On Windows, to (re-)run a script on the database, drag it on the convenience _draghere.bat_. The results will be written to the _output_ folder, overwriting the results of previous runs.
+On Windows, to (re-)run a script on the database, drag the script on the convenience _draghere.bat_. The results will be written to the _output_ folder, overwriting the results of previous runs.
 
 Instead of the _input.pgn_ you can of course also use your own PGN database. Name it *input.pgn* or edit the _draghere.bat_ to match its name. For example, you could use [your games played on Lichess](https://lichess.org/api#operation/apiGamesUser).
 
