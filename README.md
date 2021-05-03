@@ -64,7 +64,14 @@ It will take some time to run a script on a huge database. To speed up the queri
 
 The scripts in this repository use the following CQL [filters](http://gadycosteff.com/cql/filtertable.html) and [symbols](http://gadycosteff.com/cql/symbolindex.html) (leaving the obvious mathematical operators and the piece designators away). They are documented in the above links.
 
-_flipcolor_ • _result_ • _movenumber_ • _power_ • _wtm_ • _btm_ • _line_ • _mate_ • _attacks_ • _attackedby_ • _pin_ • _ray_ • `{}` • `[]` • `()` • `-->` • `.` • `*` • `a` • `A` • `_` • `#` • (whitespace between filters, which is an implicit _AND_)
+* Filters without parameters: _wtm_ • _btm_ • _mate_
+* Filters with one parameter: _flipcolor_ • _result_ • _movenumber_ • _power_ • `#`
+* Filters with two parameters: _attacks_ • _attackedby_ • _ray_
+* Filters with three parameters: _pin_
+* Filters with a variable amount of parameters: _line_
+* Piece / square / position matching filters: `a` • `A` • `_` • `.`
+* Grouping filters: `{}` • `[]` • `()` • (whitespace between filters, which is an implicit _AND_)
+* Filters which are parts of other filters: `-->` • `*`
 
 ## Copyrights
 
