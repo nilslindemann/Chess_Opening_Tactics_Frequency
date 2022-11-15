@@ -2,11 +2,11 @@
 
 [How often do specific tactical themes happen in chess openings](https://chess.stackexchange.com/questions/34683/most-common-tactic-motifs-in-the-opening-phase-of-chess)?
 
-Of course that question can not be answered precisely, because tactical motifs in chess are not clearly defined and often interweaved.
+Of course, that question can not be answered precisely, because tactical motifs in chess are not clearly defined and often interwove.
 
-But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.com/cql/) scripts which define some patterns, which are often seen in the opening phase. Using the scripts i then searched in a [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) database with 372,000 [GM](https://en.wikipedia.org/wiki/Grandmaster_(chess)) games. The search was done within the first twenty moves of each game - the opening phase. Most games fit the themes quite well, though there are some false positives. But i wanted to keep the scripts simple.
+But we can guess, and in order to do so, I wrote some [CQL](http://gadycosteff.com/cql/) scripts which define some patterns, which are often seen in the opening phase. Using the scripts, I then searched in a [PGN](https://en.wikipedia.org/wiki/Portable_Game_Notation) database with 372,000 [GM](https://en.wikipedia.org/wiki/Grandmaster_(chess)) games. The search was done within the first twenty moves of each game - the opening phase. Most games fit the themes quite well, though there are some false positives. But I wanted to keep the scripts simple.
 
-Here is what i got:
+Here is what I got:
 
 Theme|Example for the theme|N. o. games found
 :---|:---|---:
@@ -81,4 +81,4 @@ I put the scripts and the database into the public domain (chess games are anywa
 
 ... go to Gady Costeff and Lewis Stiller for creating the CQL language, and to haydoooke for his documentation of CQL.
 
-_Written by [Nils Lindemann](https://github.com/nilslindemann) in 2021-4-13._
+_Written by [Nils Lindemann](https://github.com/nilslindemann) in 2021-4-13. Last update: 2022.11.15_
